@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <name>hello-tomcat Maven Webapp</name>
-    <!-- hello change it to the project's website -->
+    <!-- hello world it to the project's website -->
     <url>http://www.example.com</url>
 
     <properties>
